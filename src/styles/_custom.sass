@@ -2,18 +2,378 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 8%
+    left: -10%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 24%
+    right: 3%
+  &-3
+    animation: float3 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 55%
+    right: 0%
 
+  &-4
+    animation: float4 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 61%
+    left: -25%    
 
 @keyframes float1
-  0%
-    transform: translateY(20px)
+	0% 
+		transform: rotate(0deg) translateX(10px) rotate(-20deg)
+	
 
-  100%
-    transform: translateY(0px)
+	100% 
+		transform: rotate(180deg) translateX(10px) rotate(-180deg)  
+
+@keyframes float2
+	0% 
+		transform: rotate(0deg) translateX(-10px) rotate(-10deg)
+	
+
+	100% 
+		transform: rotate(180deg) translateX(-10px) rotate(-180deg)  
+
+@keyframes float3
+	0% 
+		transform: rotate(0deg) translateX(10px) rotate(0deg)
+	
+
+	100% 
+		transform: rotate(-70deg) translateX(20px) rotate(80deg)  
+
+@keyframes float4
+	0% 
+		transform: rotate(0deg) translateX(20px) rotate(20deg)
+	
+
+	100% 
+		transform: rotate(-180deg) translateX(20px) rotate(180deg)    
+
+.banner-principal .tarjeta
+  background-position: left 50% !important
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto !important
+  height: auto !important 
+
+.img-mov
+  @media (max-width: 810px)
+    display: block
+    margin: auto
+    width: auto
+    height: auto    
+
+.j
+  display: flex
+  justify-content: center
+  align-items: center    
+
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/5.png") !important  
+
+.banner-principal__img
+  width: 400px !important 
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: white     
+
+.brad
+  border-radius: 15px  
+.bg1
+  background-color: #DFDFDF
+
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 50px
+      height: 50px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #339CE9
+      span 
+        color: red
+        font-weight: 700
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+        font-size: 30px
+      
+    
+    &__number 
+      position: relative
+      margin-right: 0.5rem
+      span 
+        color:#BF3976
+        font-size: 13pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 30px
+      margin-right: -1rem
+      margin-top: 4px
+      img 
+        width: 30px
+        vertical-align: middle
+        
+  &__txt 
+    p:first-child,
+    h4:first-child 
+      margin-top: 6px       
+
+.bg2
+  background-color: #000000
+  border-top: 7px solid white
+  *
+    color: white 
+
+.btop1
+    border-top: 7px solid #F1EBDD !important
+.btop2
+    border-top: 7px solid #F6F6F6 !important
+.bg3
+  position: relative
+  .row, figure, p, h3, h4, h5, .titulo-sexto.color-primario, 
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -3rem 
+    width: calc( 100% + 96px )
+    height: 108%       
+    background-image: url('../assets/curso/temas/6.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top   
+    @media (max-width: 810px)
+      background: #F6F6F6
+
+.up
+  z-index: 3 !important      
+
+
+.bg4
+  background-color: #FEF1AD  
+
+.slyder-f__btn i
+  color: #D40A32 !important    
+
+.bg5  
+  background-image: url(../assets/curso/temas/9.png)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center    
+
+
+.bg6
+  position: relative
+  .row, figure, p, h3, h4, h5, .titulo-sexto.color-primario, 
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -2rem 
+    width: calc( 100% + 96px )
+    height: 122%       
+    background-image: url('../assets/curso/temas/19.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top   
+    @media (max-width: 810px)
+      background: #484850
+
+.bg7  
+  background-image: url(../assets/curso/temas/20.png)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center          
+
+.c1
+  color: #6C4F0A !important  
+
+.bgh
+  background-color:#B5B5B5
+  border-top: 0px solid white !important
+  *
+    color: #12263F !important
+
+.w-300
+  width:270px !important  
+
+figcaption, caption
+  font-weight: 400 !important    
+
+.bg8
+  background-color: #F1EBDD   
+
+.bg9
+  background-color: #FFF9DC
+
+.bg10
+  position: relative
+  .row, figure, p, h3, h4, h5, .titulo-sexto.color-primario, 
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -1rem 
+    width: calc( 100% + 96px )
+    height: 105%       
+    background-image: url('../assets/curso/temas/26.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top   
+    @media (max-width: 810px)
+      background:#F8F8F8  
+
+.bgfig
+  background-color: #F6F6F6        
+
+.bgt1
+  background-color: #2B2B2D
+  color: white !important   
+
+.t1
+  color: #6C4F0A !important  
+
+.bg11
+  position: relative
+  .row, figure, p, h3, h4, h5, .titulo-sexto.color-primario, 
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -15rem 
+    width: calc( 100% + 96px )
+    height: 105%       
+    background-image: url('../assets/curso/temas/29.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center end   
+    @media (max-width: 810px)
+      background:#F1EBDD  
+
+.bgw
+  background-color: white        
+
+.bga
+  background-image: url(../assets/curso/temas/30.png)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center   
+
+.bg12
+  background-color: #F1EBDD  
+
+.bg13
+  position: relative
+  .row, figure, p, h3, h4, h5, .titulo-sexto.color-primario, 
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -1rem 
+    width: calc( 100% + 96px )
+    height: 105%       
+    background-image: url('../assets/curso/temas/34.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center end   
+    @media (max-width: 810px)
+      background:#F6F6F6  
+
+
+
+.bg14
+  position: relative
+  .row, figure, p, h3, h4, h5, .titulo-sexto.color-primario, 
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -2rem 
+    width: calc( 100% + 96px )
+    height: 109%       
+    background-image: url('../assets/curso/temas/37.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top   
+    @media (max-width: 810px)
+      background: #2B2B2D       
+
+.bg15
+  background-image: url(../assets/curso/temas/46.png)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center   
+
+
+.acordion
+  .tarjeta.bg16
+    background-color: #FFF9DC
+
+.tarjeta.bg16.acordion__activo
+  background-color: #FFF9DC !important 
+
+.acordion__accion__btn--b
+  background-color: #D40A32 !important
+  color: white
+  border: 1px solid #D40A32
+
+.bg17
+  position: relative
+  .row, figure, p, h3, h4, h5,.bg16, .titulo-sexto.color-primario, 
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -3rem 
+    width: calc( 100% + 96px )
+    height: 104%       
+    background-image: url('../assets/curso/temas/51.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center bottom   
+    @media (max-width: 810px)
+      background: #F6F6F6   
+
+.bg16
+  background-color: #FEF1AD      
+
+.bg18
+  background-image: url(../assets/curso/temas/66.png)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center     
