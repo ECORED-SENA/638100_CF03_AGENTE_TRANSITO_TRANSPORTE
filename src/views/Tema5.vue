@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="zoom-in-left")
       .titulo-principal__numero
         span 5
       h1 Requisitos generales para vehículos automotores 
@@ -23,52 +23,52 @@
 
       .row.justify-content-center.text-center.mb-4           
         .col-lg-2.my-3.up(data-aos="fade-left")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/52.svg', alt='')
             p.mb-0 Marca.  
         .col-lg-2.my-3.up(data-aos="fade-left")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/53.svg', alt='')
             p.mb-0 Modelo.   
         .col-lg-2.my-3.up(data-aos="fade-left")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/54.svg', alt='')
             p.mb-0 Número de pasajeros. 
         .col-lg-2.my-3.up(data-aos="fade-left")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/55.svg', alt='')
             p.mb-0 Número de placa. 
         .col-lg-2.my-3.up(data-aos="fade-left")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/56.svg', alt='')
             p.mb-0 Cilindraje. 
         .col-lg-2.my-3.up(data-aos="fade-left")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/57.svg', alt='')
             p.mb-0 Número de motor.   
 
         .col-lg-2.my-3.up(data-aos="fade-right")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/58.svg', alt='')
             p.mb-0 Número de chasis.
         .col-lg-2.my-3.up(data-aos="fade-right")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/59.svg', alt='')
             p.mb-0 Clase de vehículo.  
         .col-lg-2.my-3.up(data-aos="fade-right")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/60.svg', alt='')
             p.mb-0 Tipo de carrocería. 
         .col-lg-2.my-3.up(data-aos="fade-right")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/61.svg', alt='')
             p.mb-0 Tipo de combustible. 
         .col-lg-2.my-3.up(data-aos="fade-right")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/62.svg', alt='')
             p.mb-0 Color. 
         .col-lg-2.my-3.up(data-aos="fade-right")
-          .bg16.brad.h-100.p-3
+          .bg19.brad.h-100.p-3
             img.img-a.img-t.mb-2(data-aos="zoom-in")(src='@/assets/curso/temas/63.svg', alt='')
             p.mb-0 Nombre completo del propietario.                                            
 
@@ -79,7 +79,7 @@
       .row.justify-content-center.align-items-center.mb-4           
         .col-lg-7.my-3
           p(data-aos="fade-down") A través de este seguro se ampara los daños a personas que se causen en accidentes de tránsito, cubriendo servicios médicos hasta un máximo de 500 veces el salario mínimo legal diario vigente. Para gastos de transporte y movilización de la víctima, cubre hasta un máximo de 10 veces el salario mínimo legal diario vigente.
-          .bg16.p-4.brad
+          .bg19.p-4.brad
             h4(data-aos="fade-down") Revisión tecnicomecánica y de gases         
             p(data-aos="fade-down").mb-0 Este aplica para todos los vehículos y certifica que se encuentren en buenas condiciones, garantizando la seguridad vial a todos los actores viales.           
         .col-lg-5.my-3
