@@ -158,7 +158,7 @@
       .col-lg-auto.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/68.svg', alt='')     
       .col.my-3 
-        p(data-aos="fade-down").mb-0 Código Nacional de Tránsito Terrestre: Artículo 30. Ningún vehículo podrá transitar por las vías del territorio nacional sin portar el siguiente equipo de carretera como mínimo:          
+        p(data-aos="fade-down").mb-0 El Código Nacional de Tránsito Terrestre:  Artículo 30, estable que ningún vehículo podrá transitar por las vías del territorio nacional sin portar el siguiente equipo de carretera como mínimo:       
                             
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.my-3

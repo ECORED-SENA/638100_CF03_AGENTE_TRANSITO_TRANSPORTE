@@ -128,7 +128,7 @@ export default {
   },
   complementario: [
     {
-      tema: '1.Aspectos generales del tránsito y el transporte ',
+      tema: '1. Aspectos generales del tránsito y el transporte ',
       referencia:
         'Ley 769 de 2002. Por la cual se expide el Código Nacional de Tránsito Terrestre y se dictan otras disposiciones. Agosto 07 de 2002. DO. N° 44.893.',
       tipo: 'Ley / Código Nacional de Tránsito',
@@ -248,8 +248,26 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Storyboard e Ilustración',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Mary Jeans Palacio',
           cargo: 'Animador y Producción audiovisual',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y Producción audiovisual',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Locución',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },

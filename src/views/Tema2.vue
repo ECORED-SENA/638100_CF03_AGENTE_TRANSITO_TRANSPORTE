@@ -125,7 +125,7 @@
       .col-lg-auto.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/22.svg', alt='')              
       .col.my-3
-        p(data-aos="fade-down").mb-0 De acuerdo al Código Nacional de Tránsito aplican normas que están reglamentadas, en la siguiente tabla se enuncian las principales, pero hay gran cantidad enunciadas en favor de la seguridad vial:        
+        p(data-aos="fade-down").mb-0 De acuerdo al Código Nacional de Tránsito, aplican normas que están reglamentadas; en la siguiente tabla se enuncian las principales, pero hay gran cantidad enunciadas en favor de la seguridad vial:        
                
     .row.justify-content-center.mb-5     
       .col-lg-10(data-aos="fade-down") 

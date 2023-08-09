@@ -23,7 +23,7 @@
           .list__txt.bg2.p-0.px-4
             h4.mb-0 Requisito
 
-    p(data-aos="fade-down").mb-5 De acuerdo a lo establecido en la Ley 769 de 2022 por la cual se expide el Código Nacional de Tránsito Terrestre y se dictan otras disposiciones, en siguiente gráfico se puede observar en el Artículo 19. Requisitos, que se establece:                  
+    p(data-aos="fade-down").mb-5 De acuerdo a lo establecido en la Ley 769 de 2022 por la cual se expide el Código Nacional de Tránsito Terrestre y se dictan otras disposiciones. A continuación, se muestran algunos requisitos que establece en su Artículo 19:                 
     h4(data-aos="fade-down").text-center.mb-4 REQUISITOS ESTABLECIDOS EN LA LEY 769 DE 2002
 
     .row.justify-content-center.mb-4           
@@ -37,13 +37,13 @@
               p.mb-0 Saber leer y escribir. 
             li 
               i.fas.fa-angle-right.c1
-              p.mb-0 Mínimo de edad de 18 años cumplidos. 
+              p.mb-0 Mínimo de edad de 16 años cumplidos. 
             li 
               i.fas.fa-angle-right.c1
               p.mb-0 Aprobar examen teórico-práctico de conducción realizado por un organismo de tránsito o presentar certificado de aptitud de conducción otorgado por un centro de enseñanza automovilística aprobado por el Ministerio de Educación Nacional en coordinación con el Ministerio de Transporte. 
             li 
               i.fas.fa-angle-right.c1
-              p.mb-0 Certificado de aptitud física y mental para conducir expedido por un médico registrado ante el Ministerio de Salud, referidos a la conducción de vehículos de servicio público.             
+              p.mb-0 Certificado de aptitud física y mental para conducir expedido por un médico registrado ante el Ministerio de Salud.              
       .col-lg-6.my-3.p-0(data-aos="fade-right")
         .bg9.brad.h-100.p-4
           img.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/25.svg', alt='')              
@@ -136,8 +136,8 @@
       .col-lg-12.up(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video.             
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/surZaIoYGN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Licencia de conducción - Renovación de la Licencia de Conducción            
     .bg11                   
       p(data-aos="fade-down").mb-5 La obligatoriedad de renovar la licencia de conducción de acuerdo al rango de edad y la vigencia contemplada en el Decreto 19 de 2012, en la siguiente tabla se muestra las condiciones:
 
@@ -206,13 +206,37 @@
           .bga.brad.h-100.p-4
             img.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/31.svg', alt='')              
             h4 CAUSALES DE SUSPENSIÓN
-            p.mb-0 Por disposición de las autoridades ante una imposibilidad física o mental transitoria que le imposibilite conducir, misma que debe ser soportada medicamente. Por decisión judicial. Cuando las autoridades competentes encuentran en flagrancia al conductor en estado de embriaguez o bajo los efectos de drogas alucinógenas. Por reincidencia en la violación de las normas de tránsito en un periodo no superior a un año, efectuándose una suspensión por un término de seis meses. Por prestar el servicio público de transporte en vehiculos particulares, salvo que las condiciones de orden público lo justifiquen.
+            ul.lista-ul.fa-ul
+              li 
+                i.fas.fa-angle-right.c1
+                p.mb-0 Por disposición de las autoridades ante una imposibilidad física o mental transitoria que le imposibilite conducir, misma que debe ser soportada medicamente. 
+              li 
+                i.fas.fa-angle-right.c1
+                p.mb-0 Por decisión judicial. 
+              li 
+                i.fas.fa-angle-right.c1
+                p.mb-0 Cuando las autoridades competentes encuentran en flagrancia al conductor en estado de embriaguez o bajo los efectos de drogas alucinógenas. 
+              li 
+                i.fas.fa-angle-right.c1
+                p.mb-0 Por reincidencia en la violación de las normas de tránsito en un periodo no superior a un año, efectuándose una suspensión por un término de seis meses. Por prestar el servicio público de transporte en vehículos particulares, salvo que las condiciones de orden público lo justifiquen. 
       
         .col-lg-6.my-3(data-aos="fade-right")
           .bga.brad.h-100.p-4
             img.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/32.svg', alt='')              
             h4 CAUSALES DE TERMINACIÓN
-            p.mb-0 Por disposición de las autoridades ante una imposibilidad física o mental permanente que le imposibilite conducir, debe ser soportada medicamente. Por decisión judicial. Por muerte del titular. Cuando las autoridades competentes encuentran en flagrancia al conductor en estado de embriaguez o bajo los efectos de drogas alucinógenas, presentando reincidencia en estas condiciones. Por reincidencia al prestar el servicio público de transporte en vehiculos particulares sin justa causa.
+            ul.lista-ul.fa-ul
+              li 
+                i.fas.fa-angle-right.c1
+                p.mb-0 Por disposición de las autoridades ante una imposibilidad física o mental permanente que le imposibilite conducir, debe ser soportada medicamente. Por decisión judicial. 
+              li 
+                i.fas.fa-angle-right.c1
+                p.mb-0 Por muerte del titular. 
+              li 
+                i.fas.fa-angle-right.c1
+                p.mb-0 Cuando las autoridades competentes encuentran en flagrancia al conductor en estado de embriaguez o bajo los efectos de drogas alucinógenas, presentando reincidencia en estas condiciones. 
+              li 
+                i.fas.fa-angle-right.c1
+                p.mb-0 Por reincidencia al prestar el servicio público de transporte en vehiculos particulares sin justa causa. 
 
     p(data-aos="fade-down") La suspensión o cancelación aplicada a la licencia de conducción implica la entrega del documento a la autoridad competente para imponer la sanción ya sea para el periodo de suspensión o para la cancelación establecida sobre la misma.
 

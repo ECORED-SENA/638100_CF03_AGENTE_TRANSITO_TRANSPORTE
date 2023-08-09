@@ -30,8 +30,8 @@
       p(data-aos="fade-down") De acuerdo al Decreto Único Reglamentario 1079 de 2015, se establece una vigencia por un término de dos (02) años para la tarjeta de operación, luego de este tiempo podrá modificarse o cancelarse si cambian las condiciones exigidas a la empresa para el otorgamiento de la habilitación.         
       p(data-aos="fade-down").mb-5 El contenido de la tarjeta de operación deberá contener como mínimo la ficha técnica que establezca el Ministerio de Transporte, contando con los siguientes datos: 
       .row.justify-content-center.align-items-center.mb-4 
-        .col-lg-2.my-3
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.svg', alt='')                
+        .col-lg-4.my-3
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='')                
         .col-lg-8.my-3(data-aos="fade-down")
           h4.t1 Contenido minimo tarjeta de operación
           ul.lista-ul.fa-ul
@@ -67,7 +67,7 @@
                     img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/38.svg', alt='')     
                 .row.justify-content-center
                   .col-md-7.mb-4.mb-md-0
-                    p En caso de renovación, duplicado por pérdida, o cambio de empresa deberá indicar el número de la tarjeta de operación anterior          
+                    p En caso de renovación, duplicado por pérdida, o cambio de empresa deberá indicar el número de la tarjeta de operación anterior.          
                   .col-md-5
                     img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/39.svg', alt='')  
                 .row.justify-content-center
@@ -214,7 +214,7 @@
       .col-lg-8(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
-          span Marco Normativo en Transporte de Carga. Marco Regulatorio Empresarial.
+          span Marco Normativo en Transporte de Carga. Marco Regulatorio Empresarial
         .tabla-a.color-acento-contenido(data-aos="fade-left") 
           table
             caption.bgfig Nota. Marco Normativo en Transporte de Carga. SENA (2022).
@@ -247,7 +247,7 @@
       .col-lg-8(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 7.
-          span Marco Normativo en Transporte de Carga y Chatarrización.
+          span Marco Normativo en Transporte de Carga y Chatarrización
         .tabla-a.color-acento-contenido(data-aos="fade-left") 
           table
             caption.bgfig Nota. Marco Normativo en Transporte de Carga. SENA (2022).
@@ -280,7 +280,7 @@
       .col-lg-8(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 8.
-          span Marco Normativo en Transporte de Carga, Pesos y Dimensiones.
+          span Marco Normativo en Transporte de Carga, Pesos y Dimensiones
         .tabla-a.color-acento-contenido(data-aos="fade-left") 
           table
             caption.bgfig Nota. Construcción propia Marco Normativo en Transporte de Carga.
@@ -316,7 +316,7 @@
       .col-lg-8(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 9.
-          span Marco Normativo en Transporte de Carga, Normas de Tránsito.
+          span Marco Normativo en Transporte de Carga, Normas de Tránsito
         .tabla-a.color-acento-contenido(data-aos="fade-left") 
           table
             caption.bgfig Nota. Marco Normativo en Transporte de Carga. SENA (2022).
@@ -346,7 +346,7 @@
       .col-lg-8(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 10.
-          span Marco Normativo en Transporte de Carga, Tránsito Aduanero.
+          span Marco Normativo en Transporte de Carga, Tránsito Aduanero
         .tabla-a.color-acento-contenido(data-aos="fade-left") 
           table
             caption.bgfig Nota. Marco Normativo en Transporte de Carga. SENA (2022).
@@ -379,7 +379,7 @@
       .col-lg-8(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 11.
-          span Marco Normativo en Transporte de Carga, Tránsito Aduanero.
+          span Marco Normativo en Transporte de Carga, Tránsito Aduanero
         .tabla-a.color-acento-contenido(data-aos="fade-left") 
           table
             caption.bgfig Nota. Marco Normativo en Transporte de Carga. SENA (2022).
@@ -421,13 +421,13 @@
                 td.w-300.text-bold Resolución 272    
                 td.text-start Certificado de Idoneidad.
 
-    p(data-aos="fade-down").mb-5 En la siguiente tabla se presenta la Normativo en Transporte de Carga, Tránsito Aduanero:
+    p(data-aos="fade-down").mb-5 En la siguiente tabla se presenta la Normativo en Transporte de Carga, Otras Disposiciones:
 
     .row.justify-content-center.mb-5     
       .col-lg-8(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 12.
-          span Marco Normativo en Transporte de Carga, Otras Disposiciones.
+          span Marco Normativo en Transporte de Carga, Otras Disposiciones
         .tabla-a.color-acento-contenido(data-aos="fade-left") 
           table
             caption.bgfig Nota. Marco Normativo en Transporte de Carga. SENA (2022).
@@ -514,7 +514,7 @@
       .col-lg-6.my-3.p-0(data-aos="fade-left")
         .bg8.h-100.p-4
           img.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/48.svg', alt='')              
-          h5.t1 Para vehículos de servicio diferentes al servicio público
+          h5.t1 Tarjeta de Registro Nacional de Transporte de Carga: 
           p.mb-0 Este documento reemplaza a la Tarjeta de Operación y es el Ministerio de Transporte el ente encargado de registrar a todo propietario o conductor de un vehículo que preste el servicio de carga.           
       .col-lg-6.my-3.p-0(data-aos="fade-right")
         .bg9.h-100.p-4

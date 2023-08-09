@@ -19,7 +19,7 @@
     animation: float4 2.8s ease-in-out infinite alternate
     position: absolute
     top: 61%
-    left: -25%    
+    left: -15%    
 
 @keyframes float1
 	0% 
@@ -97,7 +97,10 @@
   border-radius: 15px  
 .bg1
   background-color: #DFDFDF
-
+@media (max-width: $bp-max-xl)  
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-resonsive.png') !important    
+    background-position: top left
 
 .list 
   width: 100%

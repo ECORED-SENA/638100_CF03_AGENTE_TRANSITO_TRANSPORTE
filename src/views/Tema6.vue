@@ -47,7 +47,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.ts
                   h4 Sanciones según grado de alcoholemia y nivel de reincidencia
-                  p.mb-0 Descargue el archivo Sanciones según grado de alcoholemia y nivel de reincidencia y reconozca el detalle de cada caso y sus acciones de regulación
+                  p.mb-0 Descargue el archivo Sanciones según grado de alcoholemia y nivel de reincidencia y reconozca el detalle de cada caso y sus acciones de regulación.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Sanciones_segun_grado_alcoholemia_nivel_reincidencia.pdf')" target="_blank")
                     span Descargar
@@ -68,7 +68,7 @@
       .col-lg-8(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 13.
-          span Medidas penales para conductores en estado de embriaguez.
+          span Medidas penales para conductores en estado de embriaguez
         .tabla-a.color-acento-contenido(data-aos="fade-left") 
           table
             caption.bgfig Nota: tomado de Función Pública- Ley 1969 de 2013
@@ -98,7 +98,7 @@
       .col-lg-8(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 14.
-          span Medidas administrativas para conductores en estado de embriaguez.
+          span Medidas administrativas para conductores en estado de embriaguez
         .tabla-a.color-acento-contenido(data-aos="fade-left") 
           table
             caption.bgfig Nota: tomado de Función Pública- Ley 1969 de 2013. 
