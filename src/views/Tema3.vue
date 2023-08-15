@@ -144,7 +144,7 @@
       .row.justify-content-center.mb-5     
         .col-lg-10(data-aos="fade-down") 
           .titulo-sexto.color-acento-contenido
-            h5 Tabla 2.
+            h5 Tabla 3.
             span Categorías de Licencias de Conducción      
           .tabla-a.color-acento-contenido(data-aos="fade-left") 
             table
