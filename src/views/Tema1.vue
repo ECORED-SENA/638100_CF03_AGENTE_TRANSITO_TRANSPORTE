@@ -58,7 +58,7 @@
           .list__txt.bg2.p-0.px-4
             h4.mb-0 Marco normativo del tránsito y el transporte
 
-    p(data-aos="fade-down").mb-5 El transporte y el tránsito en Colombia están fundamentados en una serie de normas las cuales se mencionarán a continuación, específicamente para este componente formativo, tendientes a ilustrar la actividad del Agente de Tránsito y Transporte. En la siguiente tabla se encuentra la normatividad de tránsito y transporte: 
+    p(data-aos="fade-down").mb-5 El transporte y el tránsito en Colombia están fundamentados en una serie de normas las cuales se mencionarán a continuación, específicamente para este componente formativo, tendientes a ilustrar la actividad del Agente de Tránsito y Transporte.
     .row.justify-content-start.align-items-center         
       .col-lg-10(data-aos="fade-right")
         .tarjeta.color-secundario.p-3.mb-5
