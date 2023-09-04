@@ -138,7 +138,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg16")
           .row.justify-content-center(titulo="Medición de la prueba de Alcoholemia")
             .col-12
-              p informar al conductor el objeto y tipo de prueba a practicar, los efectos y consecuencias que proceden de no permitirse efectuar la medición, el trámite y proceso administrativo para defenderse si se inicia una orden de comparendo y todas las demás consideraciones que garanticen la información al conductor previo a efectuar la prueba.  
+              p Informar al conductor el objeto y tipo de prueba a practicar, los efectos y consecuencias que proceden de no permitirse efectuar la medición, el trámite y proceso administrativo para defenderse si se inicia una orden de comparendo y todas las demás consideraciones que garanticen la información al conductor previo a efectuar la prueba.  
           .row.justify-content-center(titulo="Preguntas previas a la prueba")
             .col-12
               p Informar al conductor el objeto y tipo de prueba a practicar, los efectos y consecuencias que proceden de no permitirse efectuar la medición, el trámite y proceso administrativo para defenderse si se inicia una orden de comparendo y todas las demás consideraciones que garanticen la información al conductor previo a efectuar la prueba.
@@ -148,7 +148,7 @@
   
           .row.justify-content-center(titulo="Los resultados")
             .col-12
-              p Se le mostrarán al examinado y se procederá a imprimirlos 
+              p Se le mostrarán al examinado y se procederá a imprimirlos. 
           .row.justify-content-center(titulo="Segunda medición")
             .col-12
               p Para el caso en el que la primera medición arroje un resultado mayor o igual a 20 mg/100 ml se debe practicar una segunda medición que no supere un rango de tiempo entre una prueba y otra como mínimo de 2 minutos y no superior a 10 minutos.  

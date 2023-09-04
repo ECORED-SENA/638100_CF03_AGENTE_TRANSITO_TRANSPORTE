@@ -160,8 +160,10 @@
 </template>
 
 <script>
+import SlyderF from '@/components/SlyderF.vue'
 export default {
   name: 'Tema2',
+  components: { SlyderF },
   data: () => ({
     // variables de vue
   }),

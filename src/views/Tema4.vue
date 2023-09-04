@@ -33,14 +33,14 @@
         .col-lg-4.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='')                
         .col-lg-8.my-3(data-aos="fade-down")
-          h4.t1 Contenido minimo tarjeta de operación
+          h4.t1 Contenido mínimo tarjeta de operación
           ul.lista-ul.fa-ul
             li 
               i.fas.fa-angle-right.c1
               p.mb-0 Razón social de la empresa junto con la denominación, sede y radio de acción de las mismas.
             li 
               i.fas.fa-angle-right.c1
-              p.mb-0 Clase, modelo, marca, placa, capacidad y tipo de combustible correspondiente al vehiculo en operación. 
+              p.mb-0 Clase, modelo, marca, placa, capacidad y tipo de combustible correspondiente al vehículo en operación. 
             li 
               i.fas.fa-angle-right.c1
               p.mb-0 Nivel de servicio.  
@@ -373,13 +373,13 @@
                 td.w-300.text-bold Decreto 0111 de 2010   
                 td.text-start Modifica Estatuto Aduanero.            
 
-    p(data-aos="fade-down").mb-5 En la siguiente tabla se presenta la Normativo en Transporte de Carga, Tránsito Aduanero:
+    p(data-aos="fade-down").mb-5 En la siguiente tabla se presenta la Normativa en Transporte Internacional de Carga, Tránsito Aduanero:
 
     .row.justify-content-center.mb-5     
       .col-lg-8(data-aos="fade-down") 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 11.
-          span Marco Normativo en Transporte de Carga, Tránsito Aduanero
+          span Marco Normativo en Transporte Internacional de Carga, Tránsito Aduanero
         .tabla-a.color-acento-contenido(data-aos="fade-left") 
           table
             caption.bgfig Nota. Marco Normativo en Transporte de Carga. SENA (2022).
@@ -421,7 +421,7 @@
                 td.w-300.text-bold Resolución 272    
                 td.text-start Certificado de Idoneidad.
 
-    p(data-aos="fade-down").mb-5 En la siguiente tabla se presenta la Normativo en Transporte de Carga, Otras Disposiciones:
+    p(data-aos="fade-down").mb-5 En la siguiente tabla se presenta la Normativa en Transporte de Carga, Otras Disposiciones:
 
     .row.justify-content-center.mb-5     
       .col-lg-8(data-aos="fade-down") 

@@ -209,7 +209,7 @@
             ul.lista-ul.fa-ul
               li 
                 i.fas.fa-angle-right.c1
-                p.mb-0 Por disposición de las autoridades ante una imposibilidad física o mental transitoria que le imposibilite conducir, misma que debe ser soportada medicamente. 
+                p.mb-0 Por disposición de las autoridades ante una imposibilidad física o mental transitoria que le imposibilite conducir, misma que debe ser soportada médicamente. 
               li 
                 i.fas.fa-angle-right.c1
                 p.mb-0 Por decisión judicial. 
@@ -227,7 +227,10 @@
             ul.lista-ul.fa-ul
               li 
                 i.fas.fa-angle-right.c1
-                p.mb-0 Por disposición de las autoridades ante una imposibilidad física o mental permanente que le imposibilite conducir, debe ser soportada medicamente. Por decisión judicial. 
+                p.mb-0 Por disposición de las autoridades ante una imposibilidad física o mental permanente que le imposibilite conducir, debe ser soportada médicamente. 
+              li 
+                i.fas.fa-angle-right.c1
+                p.mb-0 Por decisión judicial. 
               li 
                 i.fas.fa-angle-right.c1
                 p.mb-0 Por muerte del titular. 
@@ -236,7 +239,7 @@
                 p.mb-0 Cuando las autoridades competentes encuentran en flagrancia al conductor en estado de embriaguez o bajo los efectos de drogas alucinógenas, presentando reincidencia en estas condiciones. 
               li 
                 i.fas.fa-angle-right.c1
-                p.mb-0 Por reincidencia al prestar el servicio público de transporte en vehiculos particulares sin justa causa. 
+                p.mb-0 Por reincidencia al prestar el servicio público de transporte en vehículos particulares sin justa causa. 
 
     p(data-aos="fade-down") La suspensión o cancelación aplicada a la licencia de conducción implica la entrega del documento a la autoridad competente para imponer la sanción ya sea para el periodo de suspensión o para la cancelación establecida sobre la misma.
 

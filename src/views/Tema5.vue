@@ -91,7 +91,7 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/65.png', alt='')                  
         .col-lg-7.my-3
           p(data-aos="fade-down") Vigencia de la Revisión Tecnicomecanica:
-          h4(data-aos="fade-down").t1 Revisión técnico mecánica y de emisiones contaminantes
+          h4(data-aos="fade-down").t1 Revisión tecnicomecánica y de emisiones contaminantes
           ol.lista-ol.fa-ul
             li 
               span.text-bold.t1 a. 
@@ -99,11 +99,11 @@
 
             li 
               span.text-bold.t1 b. 
-              p.mb-0 A los vehículos de servicio público y a las motocicletas y similares se les exigirá su primera revisión técnico mecánica y de emisiones contaminantes a los 2 años contados a partir de la fecha de la matrícula.
+              p.mb-0 A los vehículos de servicio público y a las motocicletas y similares se les exigirá su primera revisión tecnicomecánica y de emisiones contaminantes a los 2 años contados a partir de la fecha de la matrícula.
 
             li 
               span.text-bold.t1 c. 
-              p.mb-0 Para efectos de la revisión técnico mecánica, a los vehículos de servicio oficial se les aplica las mismas reglas de los vehículos de servicio particular.           
+              p.mb-0 Para efectos de la revisión tecnicomecánica, a los vehículos de servicio oficial se les aplica las mismas reglas de los vehículos de servicio particular.           
 
           p(data-aos="fade-down") Lo anterior sin perjuicio de la potestad que tienen las autoridades de control para verificar en cualquier tiempo que el vehículo efectivamente reúne las condiciones mecánicas y de seguridad exigidas por la normatividad vigente (Art, 28, 50, parágrafo 1 del Art. 122, núm. C37 del Art 131 Ley 769 de 2002, Art. 201 y 202 Dto. 019 de 2012).     
          
